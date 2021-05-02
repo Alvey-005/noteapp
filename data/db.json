@@ -1,0 +1,34 @@
+{
+  "notes": [
+    {
+      "title": "Yoshi's birthday bash",
+      "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "Remainders",
+      "id": 1
+    },
+    {
+      "title": "Complete my ninja training",
+      "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took.",
+      "category": "Work",
+      "id": 2
+    },
+    {
+      "title": "Order a pizza!",
+      "detail": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.\nLorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.",
+      "category": "Todos",
+      "id": 3
+    },
+    {
+      "title": "solve number 10",
+      "detail": "solve number 10 of leetcode asap",
+      "category": "leetcode",
+      "id": 4
+    },
+    {
+      "title": "stehwt",
+      "detail": "wryjwryj",
+      "category": "Work",
+      "id": 5
+    }
+  ]
+}
